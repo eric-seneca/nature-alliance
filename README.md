@@ -1,2 +1,2 @@
 # nature-alliance
-Seneca Class Work
+The solution to Nature Alliance.
